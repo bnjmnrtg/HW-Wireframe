@@ -29,26 +29,26 @@ section{
 	text-align: center;
 	background-color: #ccc;
 	float: left;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin: 20px 0.5% 20px;
 	padding-bottom: 10px;
 	padding-top: 30px;
 	padding-right: 10px;
 	padding-left: 10px;
-	width: 495px;
+	width: 49%;
+	box-sizing: border-box;
 }
-
 
 
 aside{
 	text-align: center;
 	background-color: #ccc;
 	float: right;
-	margin-top: 20px;
+	margin: 20px 0.5% 0;
 
 	padding-top: 30px;
 	padding-bottom: 266px;
-	width: 495px;
+	width: 49%;
+	box-sizing: border-box;
 }
 
 
@@ -90,7 +90,6 @@ footer{
 	clear: both;
 	background-color: #ccc;
 	text-align: center;
-	margin-top: 10px;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	
